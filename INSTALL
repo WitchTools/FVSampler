@@ -1,4 +1,4 @@
-1. Install the custom Linux version from https://github.com/WitchTools/linux.
+1. Install Linux 5.0 or later.
 2. Install hpctoolkit-externals from https://github.com/WitchTools/hpctoolkit-externals.
 3. Install the custom libmonitor from https://github.com/WitchTools/libmonitor.
 4. Install HPCToolkit with FVSampler extensions from https://github.com/WitchTools/hpctoolkit pointing to the installations of hpctoolkit-externals and libmonitor from step \#2 and \#3.
